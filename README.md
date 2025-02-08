@@ -1,29 +1,29 @@
 
 <h1 align="center">
  <br>
-  <a href="https://github.com/peterhanania"><img src="https://dev.pogy.gg/favicon.ico"></a>
+  <a href="https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0"><img src="https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0"></a>
   <br>
   Pogy the Discord Bot [DJS V13]
  <br>
 </h1>
 
-<h3 align=center>A fully customizable bot built with 147 commands, 11 categories and a dashboard using discord.js v13</h3>
+<h3 align=center>A fully customizable bot built with 147 commands, 11 categories and a dashboard using https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0 v13</h3>
 
-[README-hindi.md](/README-hi-HI.md)
-[README-polish](/README-pl-PL.md)
+[https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0](https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0)
+[README-polish](https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0)
 
 <div align=center>
 
- <a href="https://github.com/mongodb/mongo">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo">
+ <a href="https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0">
+    <img src="https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0%https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0" alt="mongo">
   </a>
   
-  <a href="https://github.com/discordjs">
-    <img src="https://img.shields.io/badge/discord.js-v13.6.0-blue.svg?logo=npm" alt="discordjs">
+  <a href="https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0">
+    <img src="https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0" alt="discordjs">
   </a>
 
-  <a href="https://github.com/peterhanania/Pogy/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-Apache%202-blue" alt="license">
+  <a href="https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0">
+    <img src="https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0%202-blue" alt="license">
   </a>
 
 </div>
@@ -45,11 +45,11 @@
 </p>
 
 ## Community Updates
-[Pogy + Slash commands by eYuM](https://github.com/Pogy-Bot/Pogy/tree/eyum-contributions)
+[Pogy + Slash commands by eYuM](https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0)
 
 ## About
 
-Pogy is a discord bot that we made exactly 2 years ago, the code was broken so we decided to fix the bugs and make it a multipurpose discord.js v13 bot! You can click [this](https://pogy.xyz/invite) link to invite the official Bot! Also, you can join the official [Pogy's Support Server](https://pogy.xyz/support) for assistance.
+Pogy is a discord bot that we made exactly 2 years ago, the code was broken so we decided to fix the bugs and make it a multipurpose https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0 v13 bot! You can click [this](https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0) link to invite the official Bot! Also, you can join the official [Pogy's Support Server](https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0) for assistance.
 
 If you liked this repository, feel free to leave a star ⭐
 
@@ -80,17 +80,17 @@ Pogy even has the following features on the website
 - A built in maintenance mode
 - A members Page
 - Auto Mod, Levelling, and Commands ( not done )
-- Built in TOP.gg API
+- Built in https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0 API
 
  <h1 align="center">
-  <a href="https://github.com/peterhanania"><img src="https://i.imgur.com/On7mMNg.jpg["></a>
+  <a href="https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0"><img src="https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0["></a>
 </h1>
 
 **Webhooks: (for Developer)**
 With Pogy You can even log everything using webhooks directly from the config file!
 
 <h1 align="center">
-  <a href="https://github.com/peterhanania"><img src="https://i.imgur.com/vbGuLdL.jpg"></a>
+  <a href="https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0"><img src="https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0"></a>
 </h1>
 
 ## Installation
@@ -98,7 +98,7 @@ With Pogy You can even log everything using webhooks directly from the config fi
 First clone the repo:
 
 ```
-git clone https://github.com/Pogy-Bot/Pogy.git
+git clone https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0
 ```
 
 After cloning, run an
@@ -109,7 +109,7 @@ npm install
 
 ## Setting Up
 
-Your `config.json` should follow
+Your `https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0` should follow
 
 - "developers": ID of Developers who can use the owner commands [ARRAY],
 - "status": Your bot Status [STRING],
@@ -153,7 +153,7 @@ THE ONES NEEDED
 - TOKEN=YOUR BOT TOKEN
 - MONGO=YOUR MONGO DATABASE URL
 - SESSION_SECRET=A RANDOM STRING FOR SESSION SECURITY (Ex. 6B4E8&G#%Z&##bqcyEL5)
-- AUTH_DOMAIN=Your Auth Domain (Ex. https://pogy.xyz or http://localhost:3000) no slash at the end.
+- AUTH_DOMAIN=Your Auth Domain (Ex. https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0 or http://localhost:3000) no slash at the end.
 - MAIN_CLIENT_ID=the client id of your main application
 - AUTH_CLIENT_ID=the client id of your auth application
 - AUTH_CLIENT_SECRET= the client secret of your auth application
@@ -173,20 +173,20 @@ OPTIONAL
 This will have 2 parts, callback for the main client ID, and the other for the auth client ID. I did this so that the main client doesn't get ratelimited. You can use the same Id for main_client_id and auth_client_id and put the 3 callbacks in the same application.
 
 MAIN CLIENT ID
-yourdomain/thanks example https://pogy.xyz/thanks or http://localhost:3000/thanks
-yourdomain/window example https://pogy.xyz/window or http://localhost:3000/window
+yourdomain/thanks example https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0 or http://localhost:3000/thanks
+yourdomain/window example https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0 or http://localhost:3000/window
 
 AUTH CLIENT ID
-yourdomain/callback example https://pogy.xyz/callback or http://localhost:3000/callback
+yourdomain/callback example https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0 or http://localhost:3000/callback
 
 
-**TOP.gg**
-To add top.gg to your site, add `DBL_AUTH` as your dbl api key to the `.env` file. And `yourdomain/dblwebhook` as a webhook url on top.gg's site settings. Example:  `https://yourbot.com/dblwebhook
+**https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0**
+To add https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0 to your site, add `DBL_AUTH` as your dbl api key to the `.env` file. And `yourdomain/dblwebhook` as a webhook url on https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0's site settings. Example:  `https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0
 
 **Replit**
 To run on replit you must install node js `v.16.9.1` to do so go to bash (the bash terminal on your repl) and paste: `npm init -y && npm i --save-dev node@16.9.0 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH`
 
-Pease make sure you have enabled `Privileged Intents` on your Discord [developer portal](https://discordapp.com/developers/applications/). You can find these intents under the "Bot" section, and there are two ticks you have to switch on. For more information on Gateway Intents, check out [this](https://discordjs.guide/popular-topics/intents.html#the-intents-bit-field-wrapper) link.
+Pease make sure you have enabled `Privileged Intents` on your Discord [developer portal](https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0). You can find these intents under the "Bot" section, and there are two ticks you have to switch on. For more information on Gateway Intents, check out [this](https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0) link.
 
 You can launch the bot with `npm start`
 
@@ -195,22 +195,22 @@ You can launch the bot with `npm start`
 ### Emojis
 
 - You can change the emojis in: <br>
-  1- `assets/emojis.json` <br>
-  2- `data/emoji.js`
+  1- `https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0` <br>
+  2- `https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0`
 
 ### Colors
 
-- You can change the colors in `data/colors.js`
+- You can change the colors in `https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0`
 
 ## License
 
-Released under the [Apache License](http://www.apache.org/licenses/LICENSE-2.0) license.
+Released under the [Apache License](https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0) license.
 
 ## Donate
 
-You can donate Pogy and make it stronger than ever [by clicking here](https://paypal.me/pogybot)!
+You can donate Pogy and make it stronger than ever [by clicking here](https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0)!
 
 ## Credits
-[Old Credits](https://github.com/peterhanania/pogy#credits)
-- Peter Hanania [DJS Rewrite] - [github.com/peterhanania](github.com/peterhanania)
-- JANO [DJS Rewrite] - [github.com/wlegit](github.com/wlegit)
+[Old Credits](https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0)
+- Peter Hanania [DJS Rewrite] - [https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0](https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0)
+- JANO [DJS Rewrite] - [https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0](https://github.com/momstoiletpaper/Pogy/releases/tag/v1.0)
